@@ -98,10 +98,10 @@ const config = {
               //   label: 'Stack Overflow',
               //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               // },
-              // {
-              //   label: 'Discord',
-              //   href: 'https://discordapp.com/invite/docusaurus',
-              // },
+              {
+                label: 'CSDN',
+                href: 'https://blog.csdn.net/weixin_44240478?type=blog',
+              },
               {
                 label: 'Bilibili',
                 href: 'https://space.bilibili.com/697062921',
